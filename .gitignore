@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.sqlite
+audit.jsonl
+data/handbook_index.json
+smoke_results.md
+smoke_results.json

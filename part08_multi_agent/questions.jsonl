@@ -1,0 +1,30 @@
+{"question": "How many earned leave days do I have left?", "expected": ["12"]}
+{"question": "How many sick days do I have?", "expected": ["6"]}
+{"question": "What is my casual leave balance?", "expected": ["3"]}
+{"question": "What was my net pay in October 2026?", "expected": ["120734"]}
+{"question": "How much income tax was deducted from my October 2026 salary?", "expected": ["14250"]}
+{"question": "What was my net salary for September 2026?", "expected": ["121084"]}
+{"question": "How much PF did I pay in October 2026?", "expected": ["6816"]}
+{"question": "What was my gross pay in October 2026?", "expected": ["142000"]}
+{"question": "Why was my net pay lower in October than in September 2026?", "expected": ["tax"]}
+{"question": "Which holidays are there in October 2026?", "expected": ["Dussehra", "Gandhi"]}
+{"question": "Is there a holiday in December 2026?", "expected": ["Christmas"]}
+{"question": "Which holidays fall in November 2026?", "expected": ["Diwali", "Guru Nanak"]}
+{"question": "How much unused earned leave can I carry over to next year?", "expected": ["30"]}
+{"question": "How many days in advance must I apply for earned leave?", "expected": ["3"]}
+{"question": "When do I need a doctor's certificate for sick leave?", "expected": ["2"]}
+{"question": "Can I combine casual leave with earned leave?", "expected": ["not|no"]}
+{"question": "How many days a week can I work from home?", "expected": ["2"]}
+{"question": "On which day are salaries credited?", "expected": ["last working day"]}
+{"question": "By when are payslips published?", "expected": ["3rd"]}
+{"question": "How long do I have to raise a payslip mismatch?", "expected": ["30"]}
+{"question": "Within how many days must I submit an expense claim?", "expected": ["45"]}
+{"question": "Is alcohol reimbursed on client dinners?", "expected": ["never|not|no"]}
+{"question": "What is my notice period as an employee?", "expected": ["60"]}
+{"question": "Can I use earned leave to shorten my notice period?", "expected": ["cannot|can't|not|no"]}
+{"question": "Who approves my leave if my manager does not respond?", "expected": ["manager's manager"]}
+{"question": "How many floating holidays do we get?", "expected": ["2"]}
+{"question": "I have 12 earned leave days. How many of them would carry over if I take none?", "expected": ["12"]}
+{"question": "My October 2026 net pay was 120734. When is November salary credited?", "expected": ["last working day"]}
+{"question": "How many earned days do I have, and how many can I carry into next year?", "expected": ["12", "30"]}
+{"question": "What was my October 2026 income tax, and when can I change my tax regime?", "expected": ["14250", "April"]}
